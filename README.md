@@ -22,7 +22,7 @@ Wei Lin
 - Wei Lin : [Wei1234c@gmail.com](mailto://Wei1234c@gmail.com)  
 - A planner in private enterprises
 - Started learning Python in 2015
-- interested in Data-Science and A.I.
+- Interested in Data-Science and A.I.
 
 ## About this talk
 1. [Pandas - main classes and structure](https://github.com/Wei1234c/Introduction_to_Pandas/blob/master/notebooks/1.%20Pandas%20-%20main%20classes%20and%20structure.ipynb)  
